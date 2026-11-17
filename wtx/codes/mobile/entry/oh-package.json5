@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "家居控制移动端入口模块",
+  "main": "",
+  "author": "openharmony-home-team",
+  "license": "MIT",
+  "dependencies": {}
+}

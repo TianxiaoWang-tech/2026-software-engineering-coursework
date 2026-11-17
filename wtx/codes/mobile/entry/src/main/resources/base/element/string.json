@@ -1,0 +1,10 @@
+{
+  "string": [
+    { "name": "app_name", "value": "家居控制" },
+    { "name": "module_desc", "value": "基于 OpenHarmony 的家居设备控制系统" },
+    { "name": "EntryAbility_desc", "value": "家居设备控制主入口" },
+    { "name": "EntryAbility_label", "value": "家居控制" },
+    { "name": "reason_internet", "value": "连接家庭网关以控制设备" },
+    { "name": "reason_network_info", "value": "检测局域网连通性" }
+  ]
+}

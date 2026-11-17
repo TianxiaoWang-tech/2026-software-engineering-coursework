@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "homecontrol",
+  "version": "1.0.0",
+  "description": "基于 OpenHarmony 的家居设备控制系统 —— 移动端",
+  "main": "",
+  "author": "openharmony-home-team",
+  "license": "MIT",
+  "dependencies": {}
+}

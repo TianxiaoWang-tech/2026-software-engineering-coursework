@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/HomePage",
+    "pages/LightingPage",
+    "pages/ClimatePage",
+    "pages/AccessPage",
+    "pages/ScenesPage"
+  ]
+}
